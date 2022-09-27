@@ -1,7 +1,7 @@
 pragma solidity ^0.8.10;
 
 // ----------------------------------------------------------------------------
-// --- Name   : Paideia - Bond Depository v3.0
+// --- Name   : Paideia - Bond Depository v3.2
 // --- Symbol : Format - {OX}
 // --- Supply : Generated from DAO
 // --- @title : the Beginning and the End 

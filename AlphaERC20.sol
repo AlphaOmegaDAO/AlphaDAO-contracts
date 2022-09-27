@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 // ----------------------------------------------------------------------------
-// --- Name   : Paideia - Alpha OX bep20 token v3.1
+// --- Name   : Paideia - Alpha OX bep20 token v3.0
 // --- Symbol : Format - {OX}
 // --- Supply : Generated from DAO
 // --- @title : the Beginning and the End 
@@ -12,10 +12,6 @@ pragma solidity ^0.8.10;
 // --- [https://www.paideia.global/] - EJS32 - 2021
 // --- @dev pragma solidity version:0.8.10+commit.fc410830
 // --- SPDX-License-Identifier: MIT
-// ----------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------
-// --- Library EnumerableSet
 // ----------------------------------------------------------------------------
 
 library EnumerableSet {
